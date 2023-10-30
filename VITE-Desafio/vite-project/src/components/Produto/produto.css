@@ -83,7 +83,6 @@
   .Singular{
     display: flex;
    margin: 10%;
-
   }
   .espaco{
     background-color: #f4f5f7;
@@ -92,7 +91,6 @@
   .preco{
     display: flex;
     flex-direction: row;
-    
   }
   .separar{
     display: flex;
@@ -101,6 +99,18 @@
     align-items: center;
     padding-left: 15px;
     padding-right: 15px;
-    padding: 3%;
-  
+    padding: 3%; 
+}
+.botaoVerMais{
+    margin-bottom: 6%;
+    margin-top: 1%;
+    font-family: 'Poppins', sans-serif;
+    color:#B88E2F;
+    font-size: 15px;  
+    padding-inline: 6%;
+    padding-block: 1%;
+    margin-left: 509px;
+    background-color: rgba(255, 255, 255, 0.87);
+    border-color: #B88E2F;
+    font-weight: bold;
 }
