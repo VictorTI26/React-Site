@@ -6,25 +6,36 @@
     display: flex;
     flex-direction: row;
     column-gap: 20px;
+    padding: 40px;
 }
 .inspirationImg{
     display: flex;
 }
 .inspiration1{
-    width: 400px;
-    height: 582px;
+    width: 380px;
+    height: 570px;
     margin-inline-end: 2%;
 }
 .inspiration2{
-    width: 372px;
-    height: 468px
+    width: 350px;
+    height: 440px
 }
 .inspirationTexto{
-    margin-inline: 60px;
+    margin-inline: 30px;
     font-family: Poppins;
+    margin-top: 190px;
 }
 .textoRooms{
     font-weight: bold;
     font-size: 34px;
     margin: 0;
+}
+.botaoExplore{
+    padding-inline: 30px;
+    padding-block: 10px;
+    font-weight: bold;
+    font-family: Poppins;
+    background-color: #B88E2F;
+    border-style: none;
+    color: #ffff;
 }

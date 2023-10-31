@@ -6,7 +6,7 @@ function inspiration(){
             <div className="inspirationTexto">
             <p className="textoRooms">50+ Beautiful rooms inspiration</p>
             <p className="textoDesign">Our designer already made a lot of beautiful prototipe of rooms that inspire you</p>
-            <button>Explore More</button>
+            <button className="botaoExplore">Explore More</button>
             </div>
         <div className="inspirationImg">
             <img src="./public/images/inspiration1.png" className="inspiration1"></img>

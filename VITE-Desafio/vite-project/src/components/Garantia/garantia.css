@@ -1,0 +1,26 @@
+.garantia{
+    display: flex;
+    background-color: #FAF3EA;
+    padding-block: 50px;
+}
+.garantiaSec{
+    display: flex;
+    align-items: center;
+    margin-inline: 24px;
+}
+.garantiaSec img{
+    width: 50px;
+    height: 50px;
+    margin-top: 30px;
+}
+.textoGarantia {
+    display: flex;
+    align-items: right;
+    justify-content: left;
+    padding-left: 15px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 17px;
+    font-weight: 600;
+    color: #898989;
+    margin-top: 0%;
+}
