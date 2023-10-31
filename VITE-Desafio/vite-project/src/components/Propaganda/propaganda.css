@@ -22,3 +22,20 @@
     font-family: "Poppins";
     color:#3a3a3a;
 }
+.cardPropaganda{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    background-color: #FFF3E3;
+    margin-right: 69%;
+}
+.textoPropaganda{
+    font-family: "Poppins";
+    color: black;
+}
+.tituloPropaganda{
+    font-family: "Poppins";
+    font-size: 40px;
+    font-weight: bold;
+    color: #B88E2F;
+}
