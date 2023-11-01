@@ -17,3 +17,19 @@
     margin-top: 20px;
     font-size: 18px;
 }
+
+.browse{
+    text-align: center;
+    margin: 20px;
+}
+.frase{
+    font-size: 34px;
+    font-family: "Poppins";
+    font-weight: 600;
+    color:#3a3a3a;
+}
+.subfrase{
+    font-size: 15px;
+    font-family: "Poppins";
+    color:#3a3a3a;
+}

@@ -1,33 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
 
+.propaganda{
+    background-image: url(/public/images/Banner.jpg);
+    padding: 11%;
+}
 
-.propaganda img{
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-}
-.browse{
-    text-align: center;
-    margin: 40px;
-}
-.frase{
-    font-size: 34px;
-    font-family: "Poppins";
-    font-weight: 600;
-    color:#3a3a3a;
-}
-.subfrase{
-    font-size: 15px;
-    font-family: "Poppins";
-    color:#3a3a3a;
-}
 .cardPropaganda{
     display: flex;
     flex-direction: column;
     text-align: left;
     background-color: #FFF3E3;
-    margin-right: 69%;
+    margin-left: 51%;
+    margin-top: 2%;
+    margin-right: -5%;
+    padding: 2%;
 }
 .textoPropaganda{
     font-family: "Poppins";
@@ -38,4 +25,15 @@
     font-size: 40px;
     font-weight: bold;
     color: #B88E2F;
+    margin-block: -2%;
+}
+.botaoBuy{
+    height: 74px;
+    width: 222px;
+    background-color: #B88E2F;
+    border-style: none;
+    font-family: "Poppins";
+    font-size: 18px;
+    font-weight: bold;
+    color: #FFF3E3;
 }

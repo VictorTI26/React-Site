@@ -3,6 +3,10 @@ import "./categoria.css";
 function categoria() {
     return(
         <div className="categoria">
+            <div className="browse">
+            <text className="frase">Browse the Range</text>
+            <p className="subfrase">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div>
         <div className="card">
             <img src="./public/images/Dining.png" alt="Card"/>
             <img src="./public/images/Living.png" alt="Card"/>
